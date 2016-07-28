@@ -1,0 +1,32 @@
+{
+  "name": "n-novel",
+  "version": "1.0.0",
+  "description": "a node-cli-tool to crawel the content from the novel website",
+  "main": "index.js",
+  "bin": {
+    "n-novel": "index.js"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "cheerio": "^0.20.0",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfred-Lau/n-novel.git"
+  },
+  "keywords": [
+    "n-novel",
+    "cli-tool"
+  ],
+  "author": "lj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alfred-Lau/n-novel/issues"
+  },
+  "homepage": "https://github.com/Alfred-Lau/n-novel#readme"
+}
