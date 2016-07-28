@@ -1,10 +1,10 @@
 {
   "name": "n-novel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a node-cli-tool to crawel the content from the novel website",
   "main": "index.js",
   "bin": {
-    "n-novel": "index.js"
+    "n-novel": "bin/index.js"
   },
   "dependencies": {
     "colors": "^1.1.2",
